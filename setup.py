@@ -16,7 +16,6 @@ setup(
     namespace_packages = [],
     include_package_data = True,
     zip_safe=False,
-    license="MIT",
-    install_requires=["simplejson",]
+    license="MIT"
 )
 
